@@ -1,7 +1,7 @@
 [![GitHub stats](https://github-readme-stats-kirillmerz.vercel.app/api?username=kirillmerz&show_icons=true&count_private=true&hide_title=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Most used languages](https://github-readme-stats-kirillmerz.vercel.app/api/top-langs/?username=kirillmerz&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<details align='center'>
+<details open="open" align='center'>
     <summary><h2>💻 My Skills</h2></summary>
     <a href="https://manjaro.org/">
         <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
@@ -17,7 +17,7 @@
     </a>
 </details>
 
-<details align='center'>
+<details open="open" align='center'>
     <summary><h2>🌍 Contact Me</h2></summary>
     <a href="https://t.me/kirillmerz">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
