@@ -1,5 +1,5 @@
-[![GitHub stats](https://github-readme-stats-kirillmerz.vercel.app/api?username=kirillmerz&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Most used languages](https://github-readme-stats-kirillmerz.vercel.app/api/top-langs/?username=kirillmerz&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-kirillmerz.vercel.app/api?theme=tokyonight&username=kirillmerz&show_icons=true&count_private=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats-kirillmerz.vercel.app/api/top-langs/?theme=tokyonight&username=kirillmerz&hide_progress=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <details open="open">
     <summary><h2>💻 My Skills</h2></summary>
