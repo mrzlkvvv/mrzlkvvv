@@ -23,6 +23,9 @@
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
     </a>
     <a href="https://vk.com/f4llen__4ngel">
-        <img src="https://img.shields.io/badge/ВКонтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" />
+        <img src="https://img.shields.io/badge/ВКонтакте-%232E87FB?style=for-the-badge&logo=vk&logoColor=white" />
+    </a>
+    <a href="https://discord.com/users/437980390561415169/">
+        <img src="https://img.shields.io/badge/-Discord-747EF7?style=for-the-badge&logo=Discord&logoColor=white" />
     </a>
 </details>
