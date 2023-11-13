@@ -3,8 +3,8 @@
 
 <details open="open">
     <summary><h2>💻 My Skills</h2></summary>
-    <a href="https://manjaro.org/">
-        <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
+    <a href="https://archlinux.org/">
+        <img src="https://img.shields.io/badge/arch%20linux-212529?style=for-the-badge&logo=archlinux&logoColor=blue" />
     </a>
      <a href="https://python.org/">
         <img src="https://img.shields.io/badge/Python-379432?style=for-the-badge&logo=python&logoColor=white" />
