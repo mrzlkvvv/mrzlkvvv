@@ -19,10 +19,10 @@
 
 <details open="open">
     <summary><h2>🌍 Contact Me</h2></summary>
-    <a href="https://t.me/kirillmerz">
+    <a href="https://t.me/mrzlkvvv">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
     </a>
-    <a href="https://vk.com/f4llen__4ngel">
+    <a href="https://vk.com/mrzlkvvv">
         <img src="https://img.shields.io/badge/ВКонтакте-%232E87FB?style=for-the-badge&logo=vk&logoColor=white" />
     </a>
     <a href="https://discord.com/users/437980390561415169/">
