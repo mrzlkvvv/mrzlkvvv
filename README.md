@@ -1,7 +1,7 @@
 <!-- Themes: tokyonight, midnight-purple, github_dark -->
 
-[![GitHub stats](https://github-stats-mrzlkvvv.vercel.app/api?theme=midnight-purple&username=mrzlkvvv&show_icons=true&count_private=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Most used languages](https://github-stats-mrzlkvvv.vercel.app/api/top-langs/?theme=midnight-purple&username=mrzlkvvv&hide_progress=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-stats-mrzlkvvv.vercel.app/api?theme=github_dark&username=mrzlkvvv&show_icons=true&count_private=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-stats-mrzlkvvv.vercel.app/api/top-langs/?theme=github_dark&username=mrzlkvvv&hide_progress=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <details open="open">
     <summary><h2>💻 My Skills</h2></summary>
